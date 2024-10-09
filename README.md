@@ -18,7 +18,7 @@
    <a href="[[https://www.facebook.com/romeo.rome.9828456?mibextid=ZbWKwL]]">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/asadullah-qureshi-660217247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/muhammad-asadullah-qureshi-660217247/">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>

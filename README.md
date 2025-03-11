@@ -24,7 +24,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,next,tailwind,node,express,mongodb,github,javascript,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,next,vite,tailwind,node,express,mongodb,github,javascript,figma,xd&perline=6)](https://skillicons.dev)
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadullah1s&show_icons=true&theme=dark)
 
